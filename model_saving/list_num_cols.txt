@@ -1,0 +1,1 @@
+["tenure_months", "salary", "performance_score", "satisfaction_score", "workload_score", "team_sentiment", "project_completion_rate", "overtime_hours", "training_participation", "collaboration_score", "email_sentiment", "role_complexity_score", "career_progression_score"]
