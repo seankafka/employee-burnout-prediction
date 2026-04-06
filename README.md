@@ -137,7 +137,7 @@ On the held-out test set, the final model achieves:
 | Test set | MAE | 0.0025 |
 | Test set | R-squared | 0.9999 |
 
-The inference notebook then demonstrates how the saved scaler, encoder, metadata files, and trained model can be reused to generate burnout predictions for a new employee record.
+The metrics are exceptionally strong, but they should not be interpreted too quickly as proof of real-world robustness. This project uses a synthetic dataset that appears highly structured and relatively low in noise, which likely makes the target much easier to reconstruct than in a real organizational setting.
 
 ## Key Findings
 
